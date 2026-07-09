@@ -39,6 +39,6 @@ AWS Certified AI Practitioner (AIF-C01)
 
 Acredito que aprender e compartilhar conhecimento são partes fundamentais do crescimento profissional. Este repositório será atualizado continuamente conforme avanço nos estudos e adquiro novas experiências.
 
-🚀 Um tópico de cada vez, sempre evoluindo.
+Um tópico de cada vez, sempre evoluindo.
 
 
